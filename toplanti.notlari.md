@@ -1,3 +1,9 @@
-## 17.08.2019
+# Toplantı Notları
+Yapılan toplantıların sonuçları bu sayfa üzerinden duyurulacaktır
 
-- Bir proje nasıl hazırlanır araştırılmalı.
+## 17.08.2019 Tarihli Discord Toplantısı
+- Proje dosyası nasıl hazırlanır araştırılmalı
+- Projeye katkı sağlayabilecek kişiler davet edilmeli
+- GitHub projesi açılmalı
+- Telegram'da grup açılmalı
+- Discord kanalı oluşturulmalı
