@@ -7,3 +7,9 @@ Yapılan toplantıların sonuçları bu sayfa üzerinden duyurulacaktır
 - GitHub projesi açılmalı
 - Telegram'da grup açılmalı
 - Discord kanalı oluşturulmalı
+
+## 18.08.2019 
+- Benzer projeler araştırılmalı
+- wget, curl vb. komutlarla uygun sitelerden veri toplanmalı.
+
+  
