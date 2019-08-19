@@ -9,7 +9,9 @@ Yapılan toplantıların sonuçları bu sayfa üzerinden duyurulacaktır
 - Discord kanalı oluşturulmalı
 
 ## 18.08.2019 
-- Benzer projeler araştırılmalı
-- wget, curl vb. komutlarla uygun sitelerden veri toplanmalı.
+- Proje dosyası için araştırma yapmak üzere görevlendirme yapıldı
+- wget, curl, grep vb. komutlarla uygun sitelerden veri toplanabilir.
+- Linux tarafında veri çekme için de eğitim verilebilir
+
 
   
